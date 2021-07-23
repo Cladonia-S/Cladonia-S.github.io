@@ -15,9 +15,9 @@ sidebar:
     url: ""
   - title: "C/C++/C#"
     children:
-      - title: "C"
-      - title: "C++"
-      - title: "C#"
+      - title: "  C"
+      - title: "  C++"
+      - title: "  C#"
   - title: "Python"
     url: ""
   - title: "Etc"
