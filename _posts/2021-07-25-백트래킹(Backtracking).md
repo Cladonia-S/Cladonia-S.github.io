@@ -1,6 +1,6 @@
 ---
 layout : single
-title: 백트래킹(Backtracking)
+title: "백트래킹(Backtracking)"
 categories : 알고리즘
 tag : [알고리즘, 백트래킹]
 ---
