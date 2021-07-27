@@ -1,6 +1,6 @@
 ---
 title: "코딩테스트"
-layout: categories
+layout: category
 permalink: /categories/Coding+Test/
 author_profile: true
 taxonomy: 코딩테스트
