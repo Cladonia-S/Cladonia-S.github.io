@@ -13,7 +13,7 @@ main:
   - title: "Category"
     url: /categories/
   - title : "Tags"
-    url: /tages/
+    url: /tags/
 sidebar:
   - title: "Algorithm"
     url: ""
@@ -24,5 +24,7 @@ sidebar:
       - title: "  C#"
   - title: "Python"
     url: ""
+  - title: "코딩테스트"
+    url: /categories/Coding+Test/
   - title: "Etc"
     url: "Cladonia-S.github.io/_pages/_categories/category-etc"
